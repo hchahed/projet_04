@@ -21,3 +21,10 @@ sudo dnf install gitlab-ce -y
 
 
 ```
+
+Dans le cas d'une erreur d'installation on utilisera la commande ci-dessous:
+
+```bash
+dnf package clean
+
+```
