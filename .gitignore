@@ -5,3 +5,5 @@ pelicanconf.py
 publishconf.py  
 python3-virtualenv/  
 tasks.py
+/blog/
+__pycache__
