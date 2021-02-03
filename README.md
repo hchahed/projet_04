@@ -1,9 +1,14 @@
 # Projet_04
-# Version 1.1
+# Version 1.2
 # OpenClassRooms Projet 04
 
 
 # Dans CENTOS
+
+
+## Avant propos:
+
+
 
 ## Installation de Git dans CENTOS 8
 ```bash
